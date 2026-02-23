@@ -1,0 +1,4 @@
+This is my fourth python assignment.
+This assignment highlights used of read operation.
+Handling find not found also implemented.
+Hope to finish is flawlessly.
